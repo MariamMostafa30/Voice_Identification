@@ -4,4 +4,5 @@ The problem is to train a model to learn voices and accurately predict who is sp
 As for dataset :
 there is 
 https://drive.google.com/open?id=1QxLr4D44KNpep0gQy5ohrExM2tVvkoM_
+
 that drive consists of all images that we generate from waves ,waves files ,and dataset. 
